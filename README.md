@@ -1,13 +1,13 @@
 # kmers-project
 
-## Projet GENOM 2021-2022
-Analyse globale de génomes procaryotes par distribution de mots
+## Project GENOM 2021-2022
+Global Analysis of Prokaryotic Genomes by Word Distribution
 
-Damien Legros, Cédric Cornède et Valentin Gherdol
+Damien Legros, Cédric Cornède, and Valentin Gherdol
 
-Dans ce projet, nous nous sommes intéressés à l'analyse de K-mères au sein des génomes de bactéries et d'archées.
+In this project, we focused on the analysis of K-mers within bacterial and archaeal genomes.
 
-**Bibliographie utilisée :**
+**References used :**
 - Sims G. E., Jun S. R., Wu G. A. and Kim S. H. (2009). Alignment -free genome comparison with feature frequency profiles (FFP) and optimal resolutions. Proc Natl Acad Sci U S A 106, 2677-2682.
 - Deschavanne P., DuBow M. S. and Regeard C. (2010). The use of genomic signature distance between bacteriophages and their hosts displays evolutionary relationships and phage growth cycle determination. Virol J 7, 163.
 - Deschavanne P. and Tuffery P. (2008). Exploring an alignment free approach for protein classification and structural class prediction. Biochimie 90, 615-625.
